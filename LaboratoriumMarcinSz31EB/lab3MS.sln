@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "lab3MS", "lab3MS.dtproj", "{EAA01B56-569C-48D2-90D9-32B1C2E8714E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA01B56-569C-48D2-90D9-32B1C2E8714E}.Development|Default.ActiveCfg = Development
+		{EAA01B56-569C-48D2-90D9-32B1C2E8714E}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE88A1D6-F614-471D-821E-D3881A55C330}
+	EndGlobalSection
+EndGlobal
